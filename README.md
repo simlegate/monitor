@@ -1,4 +1,9 @@
 monitor
 =======
 
-Listen your test scores in Educational System
+监听教务系统的考试成绩
+
+## Feature
+* 定时自动打开网页,填写表单,登陆
+* 抓取成绩页面的各科成绩
+* 当某科成绩低于设定值,用邮箱通知用户
